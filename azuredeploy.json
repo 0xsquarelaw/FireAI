@@ -386,9 +386,9 @@
           },
           "protectedSettings": {
             "fileUris": [
-              "[uri(parameters('_artifactsLocation'), concat('scripts/setup-FireAI.sh', parameters('_artifactsLocationSasToken')))]"
+              "[uri(parameters('_artifactsLocation'), concat('scripts/setup-suricata.sh', parameters('_artifactsLocationSasToken')))]"
             ],
-            "commandToExecute": "[concat('./setup-FireAI.sh',  ' ', parameters('cloudlensProjectKey'))]"
+            "commandToExecute": "[concat('./setup-suricata.sh',  ' ', parameters('cloudlensProjectKey'))]"
           }
         }
       },
