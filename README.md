@@ -55,7 +55,7 @@ By Group 102:
 - Cloud Tap Agent: specific configurations, including mounting the host filesystem and 	Docker socket, enabling privileged mode, and specifying certain network settings and environment variables
 - Malacious Packet Creation/ Testing (Mal.pcap)
 
-![FireAI](logo.png)
+![FireAI](images/logo.png)
 
 ## Support
 
