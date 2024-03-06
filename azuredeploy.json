@@ -90,7 +90,7 @@
       "storageAccountType": "Standard_LRS",
       "publicIPAddressType": "Dynamic",
       "virtualNetworkName": "CloudLensVNET",
-      "ubuntuOSVersion": "16.04.0-LTS",
+      "ubuntuOSVersion": "22.04.0-LTS",
       "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]",
       "toolPublicIPAddressName": "FireAIPublicIP",
       "toolStorageAccountName": "[concat('tooldisk', uniquestring(resourceGroup().id))]",
