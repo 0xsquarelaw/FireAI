@@ -1,7 +1,6 @@
 
 #  Project: FireAI (Cloud Firewall Using AI)
 
-### Wall Of Contribution
 Epics Project Review 02 
 By Group 102:
 - Batch 2021
@@ -10,6 +9,17 @@ By Group 102:
 - https://github.com/0xsquarelaw/FireAI
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+# CloudLens with FireAI Deployment
+
+![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/application-workloads/cloudlens/cloudlens-suricata-ubuntu/PublicDeployment.svg)
+
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fapplication-workloads%2Fcloudlens%2Fcloudlens-suricata-ubuntu%2Fazuredeploy.json)
+[![Deploy To Azure US Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fapplication-workloads%2Fcloudlens%2Fcloudlens-suricata-ubuntu%2Fazuredeploy.json)
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fapplication-workloads%2Fcloudlens%2Fcloudlens-suricata-ubuntu%2Fazuredeploy.json)
+
+# Wall of Contribution
 
 ####  Team A
 | Name      | Reg. Number | Specialization |
