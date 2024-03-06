@@ -119,6 +119,9 @@
         "name": "[variables('toolStorageAccountName')]",
         "apiVersion": "2021-02-01",
         "location": "[parameters('location')]",
+        "tagsFile": {
+          "$include": "metadata.json"
+        },
         "sku": {
           "name": "[variables('storageAccountType')]"
         },
