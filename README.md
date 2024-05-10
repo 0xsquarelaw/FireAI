@@ -31,7 +31,9 @@ By Group 102:
 **Task:** 
 - Configuration of Fire AI (intrusion detection system) Firewall
 - Stack Development Azure
-- Virtual Interface 
+- Model Deployment
+- Virtual Interface
+- Final Report and PPT creation
 
 #### Team B
 | Name     | Reg. Number   | Specialization |
@@ -44,6 +46,7 @@ By Group 102:
 - Documentation
 - Report Maintainers
 - System Architecture Design: Management traffic, Overlay Tunnel, Tapping VM
+- Model Testing/Anamoly Detection
 
 #### Team C
 | Name   | Roll Number   | Specialization |
@@ -54,6 +57,8 @@ By Group 102:
 
 - Cloud Tap Agent: specific configurations, including mounting the host filesystem and 	Docker socket, enabling privileged mode, and specifying certain network settings and environment variables
 - Malacious Packet Creation/ Testing (Mal.pcap)
+- Model Testing
+- Model Evaluation
 
 ![FireAI](images/logo.png)
 
