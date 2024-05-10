@@ -32,7 +32,7 @@ By Group 102:
 - Configuration of Fire AI (intrusion detection system) Firewall
 - Stack Development Azure
 - Model Deployment
-- Virtual Interface
+- Virtual Interface Design
 - Final Report and PPT creation
 
 #### Team B
