@@ -6,7 +6,7 @@ By Group 102:
 - Batch 2021
 - Presented on 07/03/2024
 - VIT Bhopal, Madhya Pradesh, India
-- https://github.com/0xsquarelaw/FireAI
+- [Detail Working of Model & Setup/Deployment](https://github.com/0xsquarelaw/FireAI/blob/main/ML_Model/Readme.md)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
